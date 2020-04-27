@@ -1,2 +1,3 @@
 # hello-world
-This is being created to test and understand Github's functionality.
+
+This repository has been created to understand Github's features and functionality.
